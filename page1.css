@@ -1,0 +1,59 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    }
+    .centered {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    #btn{
+    position: absolute;
+    top: 140px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:25px;
+    }
+    #btn1{
+    position: absolute;
+    top: 180px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:25px;
+    }
+    #btn2{
+    position: absolute;
+    top: 220px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:25px;
+    }
+    #btn3{
+    position: absolute;
+    top: 260px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:25px;
+    }
+    h1 {
+    color:chocolate;
+    }
+    .pop{
+        position:absolute;
+        bottom:50px;
+        height:100px;
+        width:10%;
+        margin-left:100px;
+        
+    }
+body {
+    background-image:url("Stars.jpg");
+}
+.num{
+    position:absolute;
+    bottom:0px;
+    height:100px;
+}

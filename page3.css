@@ -1,0 +1,49 @@
+.container {
+position: relative;
+text-align: center;
+color: white;
+font-size: 150%;
+}
+.centered {
+position: absolute;
+top: 15%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+#btn{
+position: absolute;
+top: 35%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size:25px;
+}
+#btn1{
+position: absolute;
+top: 44%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size:25px;
+}
+#btn2{
+position: absolute;
+top: 53%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size:25px;
+}
+#btn3{
+position: absolute;
+top: 62%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-size:25px;
+}
+h1 {
+color:color;
+}
+.pop{
+    bottom:50%;
+    height:150px;
+    width:10%;
+    margin-left: 160px;
+}
